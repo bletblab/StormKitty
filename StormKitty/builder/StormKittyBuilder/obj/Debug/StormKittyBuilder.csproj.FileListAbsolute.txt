@@ -1,0 +1,16 @@
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\StormKittyBuilder.exe.config
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\StormKittyBuilder.exe
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\StormKittyBuilder.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.dll
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\obj\Debug\StormKittyBuilder.csprojAssemblyReference.cache
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\obj\Debug\StormKittyBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\obj\Debug\StormKittyBuilder.csproj.CopyComplete
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\obj\Debug\StormKittyBuilder.exe
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\builder\StormKittyBuilder\obj\Debug\StormKittyBuilder.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.CoreCompileInputs.cache
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\StormKitty.exe.config
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\StormKitty.exe
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\StormKitty.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\DotNetZip.dll
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\DotNetZip.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\bin\Debug\DotNetZip.xml
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.CopyComplete
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.exe
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.pdb
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.Properties.Resources.resources
+C:\Users\Vers\Desktop\StormKitty-1.5\StormKitty-1.5\StormKitty\stub\Neko\obj\Debug\StormKitty.csproj.GenerateResource.cache
